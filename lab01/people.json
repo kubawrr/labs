@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "first_name": "Monika,",
+        "birth": "1954-03-14"
+    },
+    {
+        "id": 2,
+        "first_name": "Stanisław",
+        "birth": "1987-09-16"
+    },
+    {
+        "id": 3,
+        "first_name": "Ewelina",
+        "birth": "1974-04-24"
+    },
+    {
+        "id": 4,
+        "first_name": "Karol",
+        "birth": "1991-07-18"
+    }
+]
